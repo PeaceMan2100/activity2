@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contraint layout</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="school">School</string>
+    <string name="year_of_graduation">Year Of Graduation</string>
+</resources>
